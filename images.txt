@@ -4,3 +4,5 @@ xhofe/alist:latest
 grafana/loki
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
+#nacos
+nacos/nacos-server:v2.3.2-slim
