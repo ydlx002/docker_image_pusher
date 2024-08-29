@@ -6,3 +6,4 @@ grafana/loki
 --platform=linux/arm64 xiaoyaliu/alist
 #nacos
 --platform=linux/arm64 nacos/nacos-server:v2.3.2-slim
+dockurr/windows-arm
