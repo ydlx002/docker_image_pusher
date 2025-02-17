@@ -8,3 +8,4 @@ grafana/loki
 --platform=linux/arm64 nacos/nacos-server:v2.3.2-slim
 dockurr/windows-arm
 prom/prometheus
+prom/influxdb-exporter
