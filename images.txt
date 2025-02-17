@@ -9,3 +9,4 @@ grafana/loki
 dockurr/windows-arm
 prom/prometheus
 prom/influxdb-exporter
+prometheus/influxdb-exporter
